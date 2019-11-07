@@ -1,3 +1,4 @@
+
 class Matematica {
     static soma (a, b) {
         return a+b;
